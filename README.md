@@ -3,6 +3,8 @@
 ## Project Description
 The CSV Web Scraper Dashboard is an interactive Streamlit application designed to process data from CSV files, perform web scraping, and generate concise, relevant insights. With integrated APIs, it provides a seamless user experience to extract and display results from search queries for each row of a selected column.
 
+Loom video: https://www.loom.com/share/d9e7892a65e74668a136ddaff973e4ed?sid=33086857-ffe2-41fe-b4ef-4dd8e7ec72f8
+
 ## Setup Instructions
 Follow these steps to set up and run the project:
 
