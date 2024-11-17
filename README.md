@@ -62,7 +62,4 @@ View processed data dynamically within the dashboard.
 Handles missing API keys, connection issues, and invalid responses gracefully.
 
 Handles missing API keys, connection issues, and invalid responses gracefully.
-Contribution
-Feel free to fork, improve, or contribute to this project by submitting a pull request. For any issues, please raise an issue in the repository.
-
-Happy Scraping!
+ 
