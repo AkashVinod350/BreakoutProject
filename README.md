@@ -6,16 +6,16 @@ The CSV Web Scraper Dashboard is an interactive Streamlit application designed t
 ## Setup Instructions
 Follow these steps to set up and run the project:
 
-### Install Required Dependencies
+### 1. Install Required Dependencies
 Ensure you have Python installed. Use the following command to install required packages:
  
 pip install streamlit pandas requests groq
 
-### Run the Application
+### 2. Run the Application
 Execute the application using the command:
 streamlit run app.py
 
-### Upload CSV File
+### 3. Upload CSV File
 Upload a CSV file with appropriate data to use the dashboard features.
 
 ## Usage Guide
