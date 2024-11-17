@@ -61,5 +61,3 @@ View processed data dynamically within the dashboard.
 ### Error Handling:
 Handles missing API keys, connection issues, and invalid responses gracefully.
 
-Handles missing API keys, connection issues, and invalid responses gracefully.
- 
